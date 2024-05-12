@@ -1,0 +1,55 @@
+.bgColor{
+  background-color: rgb(237, 237, 133);
+  height: 20cm;
+}
+.red{
+  margin: 10px;
+  height: 1cm;
+  width: 9%;
+  border-radius: 9px;
+font-size: 150%;
+background-color: rgb(152, 32, 32);
+}
+.yellow{
+  margin: 10px;
+  height: 1cm;
+  width: 9%;
+  border-radius: 9px;
+font-size: 150%;
+background-color: yellow;
+
+}
+.green{
+  margin: 10px;
+  height: 1cm;
+  width: 9%;
+  border-radius: 9px;
+font-size: 150%;
+background-color: green;
+}
+.black{
+  margin: 10px;
+  height: 1cm;
+  width: 9%;
+  border-radius: 9px;
+font-size: 150%;
+color: azure;
+background-color: black;
+}
+.blue{
+  margin: 10px;
+  height: 1cm;
+  width: 9%;
+  border-radius: 9px;
+font-size: 150%;
+color: azure;
+background-color: blue;
+}
+.pink{
+  margin: 10px;
+  height: 1cm;
+  width: 9%;
+  border-radius: 9px;
+font-size: 150%;
+background-color: pink;
+}
